@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    --text-color: rgba(240, 184, 0, 0.996);
+    --background-color: black;
+    --border-color: red;
+    font-size: 0.85rem;
+    margin: 20px auto;
+    padding: 0 7px;
+    background: var(--text-color);
+}
+
+p {
+    margin: 0;
+    max-width: 80vw;
+    max-height: 80vh;
+    background-color: var(--background-color);
+    text-align: center;
+    letter-spacing: 0.15px;
+    border: var(--border-color) solid 2px ;
+    color: var(--text-color);
+	text-align: center;
+}
+
