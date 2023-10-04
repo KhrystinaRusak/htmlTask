@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 30px;
+}
+
+.header {
+    padding: 20px 0;
+}
+
+table, th, td {
+    border: none;
+    padding: 8px;
+    font-size: 20;
+    font-weight: 300;
+}
+
+img {
+    height: 30px;
+    width: 40px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.bold {
+    font-weight: 900;
+    text-align: left;
+}
+
+.footer {
+    font-style: italic;
+}
